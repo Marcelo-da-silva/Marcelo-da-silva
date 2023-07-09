@@ -1,4 +1,4 @@
-### Hi there 👋
+ 👋 Olá, me chamo Marcelo sou iniciante na programação. comecei em junho de 2023. vai ser um prazer se voc^puder me ajudar.
 
 # 💫 About Me:
 🔭 Sou estudante de full Stack<br>👯 Estou no inicio de meus estudos<br>💬 Inicio dos estudos em junho de 2023<br>⚡ 
